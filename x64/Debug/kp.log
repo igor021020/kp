@@ -1,0 +1,3 @@
+﻿  kursovoy.c
+C:\Users\bakul\source\repos\kp\kp\kursovoy.c(79,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  kp.vcxproj -> C:\Users\bakul\source\repos\kp\x64\Debug\kp.exe
